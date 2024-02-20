@@ -4,7 +4,7 @@
   "homepage": "http://VRashi16.github.io/tiktok-ui-react-js",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite --host --port 1337",
     "build": "vite build",
     "preview": "vite preview"
