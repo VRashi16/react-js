@@ -1,7 +1,7 @@
 {
   "name": "react-course",
   "type": "module",
-  "homepage": "http://VRashi16.github.io/tiktok-ui-react-js",
+  "homepage": "https://VRashi16.github.io/tiktok-ui-react-js",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
